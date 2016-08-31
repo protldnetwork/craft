@@ -1,2 +1,2 @@
 # Craft
-" Craft " is a web programming language powered by PHP.
+Craft is a web programming language powered by PHP.

@@ -1,0 +1,6 @@
+{
+  "name": "Craft",
+  "tagline": "\" Craft \" is a web programming language powered by PHP.",
+  "body": "### Welcome to Craft!\r\nCraft is a web programming language which is powered by PHP and it's currently under development.\r\n\r\n### Craft Server\r\nTo install Craft server, simply download the Craft installer to your linux server then run it. For more information(s) please refer to our wiki.\r\n\r\n### Authors and Contributors\r\n@protldnetwork - Main Developer.\r\n\r\n### Support or Contact\r\nIf you want to contact us, or if you're asking for support -> [documentation](https://protldnetwork.github.io/craft/docs) or [contact support](mailto:admin@protld.host)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
